@@ -1,2 +1,2 @@
 # trialRepo
-    <h2>stuff is added using html</h2>git
+<h2>text msgs added with html formating</h2>
